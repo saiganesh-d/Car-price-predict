@@ -5,4 +5,4 @@
 ## done data cleaning, EDA on the dataset
 ## Got 0.78 R2 value 
 deployed into heroku
-# check out the deployment [saiagnesh.herokuapp.com/sales](saiagnesh.herokuapp.com/sales)
+# check out the deployment [http://saiagnesh.herokuapp.com/sales](http://saiagnesh.herokuapp.com/sales)
